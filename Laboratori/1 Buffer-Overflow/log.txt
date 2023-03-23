@@ -1,0 +1,16 @@
+Ptrs:  1448448148 
+P:  4294954860 pat:  1448436289 
+
+HEX
+Ptrs:  0x56559094 
+P:  0xffffcf6c 
+pat:  0x56556241 
+
+DISTANZA ptrs-p:  2846506712 
+DISTANZA ptrs-pat:  2846518571 
+
+HEX DISTANZA ptrs-p:  0xa9aa3ed8 
+DISTANZA ptrs-pat:  0xa9aa3ed8 
+
+ DIV4 DISTANZA ptrs-p:  711626678.0 
+DISTANZA ptrs-pat:  711629642.75
